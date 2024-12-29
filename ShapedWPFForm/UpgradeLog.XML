@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="ShapedWPFForm">
+</Property><Property Name="Solution File" Value="D:\ShapedWPFForm\ShapedWPFForm\ShapedWPFForm.sln">
+</Property><Property Name="User Options File" Value="D:\ShapedWPFForm\ShapedWPFForm\ShapedWPFForm.suo">
+</Property><Property Name="Date" Value="Wednesday, April 7, 2021">
+</Property><Property Name="Time" Value="0:55 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="ShapedWPFForm.sln" Description="File successfully backed up as D:\ShapedWPFForm\ShapedWPFForm\Backup\ShapedWPFForm.sln">
+</Event><Event ErrorLevel="0" Project="" Source="ShapedWPFForm.suo" Description="File successfully backed up as D:\ShapedWPFForm\ShapedWPFForm\Backup\ShapedWPFForm.suo">
+</Event><Event ErrorLevel="0" Project="ShapedWPFForm" Source="ShapedWPFForm\ShapedWPFForm.csproj" Description="Project file successfully backed up as D:\ShapedWPFForm\ShapedWPFForm\Backup\ShapedWPFForm\ShapedWPFForm.csproj">
+</Event><Event ErrorLevel="0" Project="ShapedWPFForm" Source="ShapedWPFForm\App.xaml.cs" Description="File successfully backed up as D:\ShapedWPFForm\ShapedWPFForm\Backup\ShapedWPFForm\App.xaml.cs">
+</Event><Event ErrorLevel="0" Project="ShapedWPFForm" Source="ShapedWPFForm\ShapedWindow.xaml.cs" Description="File successfully backed up as D:\ShapedWPFForm\ShapedWPFForm\Backup\ShapedWPFForm\ShapedWindow.xaml.cs">
+</Event><Event ErrorLevel="0" Project="ShapedWPFForm" Source="ShapedWPFForm\Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\ShapedWPFForm\ShapedWPFForm\Backup\ShapedWPFForm\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ShapedWPFForm" Source="ShapedWPFForm\Properties\Resources.Designer.cs" Description="File successfully backed up as D:\ShapedWPFForm\ShapedWPFForm\Backup\ShapedWPFForm\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ShapedWPFForm" Source="ShapedWPFForm\Properties\Settings.Designer.cs" Description="File successfully backed up as D:\ShapedWPFForm\ShapedWPFForm\Backup\ShapedWPFForm\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="ShapedWPFForm" Source="ShapedWPFForm\Properties\Settings.settings" Description="File successfully backed up as D:\ShapedWPFForm\ShapedWPFForm\Backup\ShapedWPFForm\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="ShapedWPFForm" Source="ShapedWPFForm\Properties\Resources.resx" Description="File successfully backed up as D:\ShapedWPFForm\ShapedWPFForm\Backup\ShapedWPFForm\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="ShapedWPFForm" Source="ShapedWPFForm\App.xaml" Description="File successfully backed up as D:\ShapedWPFForm\ShapedWPFForm\Backup\ShapedWPFForm\App.xaml">
+</Event><Event ErrorLevel="0" Project="ShapedWPFForm" Source="ShapedWPFForm\ShapedWindow.xaml" Description="File successfully backed up as D:\ShapedWPFForm\ShapedWPFForm\Backup\ShapedWPFForm\ShapedWindow.xaml">
+</Event><Event ErrorLevel="0" Project="ShapedWPFForm" Source="ShapedWPFForm\ShapedWPFForm.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ShapedWPFForm" Source="ShapedWPFForm\ShapedWPFForm.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="ShapedWPFForm.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="ShapedWPFForm.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ShapedWPFForm" Source="ShapedWPFForm\ShapedWPFForm.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
